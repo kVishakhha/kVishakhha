@@ -1,66 +1,91 @@
+
 # Hi, I'm Vishakha Khetan 👋
 
-**Computer Science Undergraduate | Software Engineering | Applied AI**
+### Computer Science Undergraduate | Software Engineering | Applied AI
 
-I'm a B.Tech Computer Science student at NMIMS Shirpur who enjoys building practical software and exploring how backend systems, machine learning, and data can work together.
+I'm a B.Tech Computer Science undergraduate at NMIMS Shirpur, interested in building reliable software systems and exploring the intersection of software engineering, machine learning, and data analytics.
 
-I learn best by implementing ideas, testing them, and improving them through feedback.
+I enjoy solving practical problems through code, understanding how systems work, and applying computer science concepts to develop useful applications. Through hands-on projects, I'm working to strengthen my technical foundations and explore how intelligent technologies can address real-world challenges.
 
-## Featured Projects
+## 🔬 Areas of Interest
 
-### 🛡️ [AI Content Moderation](https://github.com/kVishakhha/ai-content-moderation)
-A multi-service application exploring safer messaging with an AI-based text moderation service.
+- **Software Engineering:** Object-oriented programming, backend development, REST APIs, and system design
+- **Artificial Intelligence & Machine Learning:** Applied machine learning, AI-powered applications, and model evaluation
+- **Data & Databases:** SQL, relational database design, and data-driven applications
+- **Computer Science Fundamentals:** Compiler design, algorithms, and blockchain fundamentals
 
-**Highlights:** FastAPI, Detoxify, category-specific moderation decisions, obfuscation handling, Node.js services, PostgreSQL, and a React frontend.
+## 🚀 Selected Projects
 
-### 🎵 [MoodTunes](https://github.com/kVishakhha/MoodTunes)
-An NLP-based music recommendation app that predicts the emotion in a short text and recommends songs for a matching mood.
+### 1. [AI Content Moderation](https://github.com/kVishakhha/ai-content-moderation)
 
-**Highlights:** Text preprocessing, TF-IDF, support vector machine (SVM), Python, and Streamlit.
+An AI-powered content moderation project exploring automated text and image moderation and integration with a chat application.
 
-### ☕ [RoastLang](https://github.com/kVishakhha/Roastlang)
-A mini programming language built as a compiler-design project.
+**Focus areas:** Applied machine learning, content classification, software integration, and moderation workflows.
 
-**Highlights:** C, Flex, Bison, lexical analysis, and syntax parsing.
+### 2. [Expense Tracker](https://github.com/kVishakhha/expense-tracker)
 
-### 📚 [Leave Management System](https://github.com/kVishakhha/leave-management-system)
-A Java desktop application for student leave requests and admin review.
+A backend application for expense management, focusing on REST API development and relational database integration.
 
-**Highlights:** Java Swing, JDBC, MySQL, and role-based workflows.
+**Focus areas:** Backend development, API design, database management, and application functionality.
 
-### 💸 [Expense Tracker](https://github.com/kVishakhha/expense-tracker)
-A backend-focused expense management application.
+### 3. [RoastLang](https://github.com/kVishakhha/Roastlang)
 
-**Highlights:** Node.js, Express, PostgreSQL, REST APIs, and JWT-based authentication.
+A compiler-design mini-project developed using C, Flex, and Bison.
 
-### 🌳 [Decision Simulator](https://github.com/kVishakhha/decision-logic-tree)
-A web app that scores decisions using configurable factors such as cost, time, stress, reward, and risk.
+**Focus areas:** Lexical analysis, parsing, language processing, and compiler fundamentals.
 
-**Highlights:** React, TypeScript, Vite, and interactive decision logic.
+### 4. [Decision Simulator](https://github.com/kVishakhha/decision-logic-tree)
 
-## Technical Toolkit
+A decision-support application that explores structured decision-making using configurable criteria and scoring.
 
-- **Languages:** Java, Python, C, JavaScript, SQL
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** MySQL, PostgreSQL
-- **AI / NLP:** Text preprocessing, TF-IDF, SVM, Detoxify
-- **Web:** React, HTML, CSS
-- **Tools:** Git, GitHub, VS Code
+**Focus areas:** Problem-solving, decision logic, and application development.
 
-I'm continuing to build depth through hands-on projects, with a focus on clean implementation, testing, documentation, and understanding technical trade-offs.
+## 🛠️ Technical Skills
 
-## Current Interests
+**Programming Languages**
+- Java
+- Python
+- C
+- JavaScript
+- SQL
 
-- Backend engineering and API design
-- Applied machine learning and NLP
-- Database design and data-driven applications
-- Software quality, testing, and maintainable architecture
+**Backend & Databases**
+- Node.js
+- Express
+- MySQL
+- PostgreSQL
 
-## Connect
+**Web Development**
+- HTML
+- CSS
+- JavaScript
 
+**Developer Tools**
+- Git
+- GitHub
+- Visual Studio Code
+
+*My experience varies across technologies, and I continue to develop my skills through practical implementation and project work.*
+
+## 🎯 Current Focus
+
+- Strengthening software engineering fundamentals and problem-solving skills.
+- Building maintainable applications with clear architecture and documentation.
+- Exploring practical applications of machine learning and data analytics.
+- Improving software testing, evaluation, and code quality.
+- Developing projects that demonstrate implementation skills and an understanding of technical trade-offs.
+
+## 📚 Learning Philosophy
+
+I value practical learning, analytical thinking, and continuous improvement. I enjoy understanding the reasoning behind technical decisions and applying concepts through implementation and experimentation.
+
+My long-term goal is to deepen my knowledge of computer science and explore how robust software systems and intelligent technologies can solve meaningful problems.
+
+## 📫 Connect With Me
+- **Mail:** [Vishakha Khetan](vishakha.nk2005@gmail.com)
 - **GitHub:** [@kVishakhha](https://github.com/kVishakhha)
 - **LinkedIn:** [Vishakha Khetan](https://www.linkedin.com/in/vishakha-khetan-157986284/)
-- **Email:** [vishakha.nk2005@gmail.com](mailto:vishakha.nk2005@gmail.com)
 
 ---
-*Building, learning, and improving one project at a time.*
+
+*Always learning, building, and exploring new ideas.*
